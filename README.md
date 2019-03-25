@@ -1,3 +1,7 @@
+# Archived
+
+this is an archived version of devstack. Better use upstream.
+
 DevStack is a set of scripts and utilities to quickly deploy an OpenStack cloud.
 
 # Goals
